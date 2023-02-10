@@ -1,1 +1,1 @@
-Bas-Script to delete files older than 7DAYS
+Bash-Script to delete files older than 7DAYS
